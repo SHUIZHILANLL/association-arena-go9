@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.zip
+.DS_Store
+Thumbs.db
+*.bak
+*_backup.py
+docs/tmp__*
+.idea/
+.vscode/
